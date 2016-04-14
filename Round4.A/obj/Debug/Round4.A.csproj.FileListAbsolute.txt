@@ -1,0 +1,6 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round4.A\bin\Debug\Round4.A.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round4.A\bin\Debug\Round4.A.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round4.A\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round4.A\bin\Debug\nunit.framework.xml
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round4.A\obj\Debug\Round4.A.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round4.A\obj\Debug\Round4.A.pdb

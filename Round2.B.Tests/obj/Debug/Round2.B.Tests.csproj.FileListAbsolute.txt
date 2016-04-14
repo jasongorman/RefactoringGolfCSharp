@@ -1,0 +1,9 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\bin\Debug\Round2.B.Tests.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\bin\Debug\Round2.B.Tests.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\bin\Debug\nunit.framework.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\bin\Debug\Round2.B.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\bin\Debug\Round2.B.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\bin\Debug\nunit.framework.xml
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\obj\Debug\Round2.B.Tests.csprojResolveAssemblyReference.cache
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\obj\Debug\Round2.B.Tests.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B.Tests\obj\Debug\Round2.B.Tests.pdb

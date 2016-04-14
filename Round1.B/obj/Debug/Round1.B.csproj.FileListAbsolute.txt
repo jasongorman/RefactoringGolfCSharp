@@ -1,0 +1,4 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round1.B\bin\Debug\Round1.B.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round1.B\bin\Debug\Round1.B.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round1.B\obj\Debug\Round1.B.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round1.B\obj\Debug\Round1.B.pdb

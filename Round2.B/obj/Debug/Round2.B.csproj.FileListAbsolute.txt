@@ -1,0 +1,5 @@
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B\bin\Debug\Round2.B.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B\bin\Debug\Round2.B.pdb
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B\obj\Debug\Round2.B.dll
+c:\users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B\obj\Debug\Round2.B.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\RefactoringGolf\Round2.B\obj\Debug\Round2.B.csprojResolveAssemblyReference.cache
